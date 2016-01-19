@@ -9,3 +9,8 @@ high level way to create menubar desktop applications with electron (formerly at
 
 ###### [scribble](https://github.com/muan/scribble)
 A Jekyll theme. http://scribble.muan.co
+
+#### Gif Collection
+
+###### [gifs](https://github.com/jglovier/gifs)
+Storage place for all mah gifs. http://gifs.joelglovier.com
