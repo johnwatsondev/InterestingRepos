@@ -3,6 +3,9 @@
 ###### [menubar](https://github.com/maxogden/menubar)
 high level way to create menubar desktop applications with electron (formerly atom-shell)
 
+###### [syncthing](https://github.com/syncthing/syncthing)
+Open Source Continuous File Synchronization http://forum.syncthing.net/
+
 #### Blog
 
 ##### Jekyll
