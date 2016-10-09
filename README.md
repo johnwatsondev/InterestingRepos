@@ -22,3 +22,13 @@ Storage place for all mah gifs. http://gifs.joelglovier.com
 
 ##### [Pancakes](https://github.com/mattlogan/pancakes)
 A View-based navigation stack for Android
+
+#### CLT
+
+##### [repoman](https://github.com/basti1302/repoman)
+Multi-repository source code management command-line tool. http://blog.cliffano.com/tag/repoman/
+
+#### Database Tool
+
+##### [dock](https://github.com/bripkens/dock)
+Bootstrap databases, MOMs and other tools that you need for development purposes
